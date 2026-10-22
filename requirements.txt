@@ -3,3 +3,4 @@ pandas
 requests
 pillow
 ddgs
+beautifulsoup4
